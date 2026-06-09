@@ -17,15 +17,15 @@ Native Portuguese, Fluent English
 </p>
 
 ## Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-diogo.vercel.app/api?username=Diogo-Olivv&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=21600&theme=tokyonight&hide_border=true" alt="Diogo's GitHub stats" />
-  <img height="180em" src="https://github-readme-diogo.vercel.app/api/top-langs/?username=Diogo-Olivv&layout=compact&langs_count=8&count_private=true&hide=html,css&size_weight=0.5&count_weight=0.5&cache_seconds=21600&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diogo-Olivv&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-diogo.vercel.app/api/top-langs/?username=Diogo-Olivv&layout=compact&langs_count=8&count_private=true&hide=html,css&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+
 
 ## Technologies
 
